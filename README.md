@@ -5,13 +5,13 @@ Data is an important source for a business growth and it is very important to kn
 
 <li><b>STEP 1: Define the problem questions</b></li>
 Based on the given problem always define a set of questions relating to the problems. Questions should be measurable, clear and concise. Design the questions to either qualify or disqualify potential solutions to your specific problem or opportunity. <br>
-#### STEP 2: Collect Data
+<li><b>STEP 2: Collect Data</b></li>
 Based on the questions which were framed, determine what type of data is needed to be taken and analyzed<br>
-#### STEP 3: Understand the data
+<li><b>STEP 3: Understand the data</b></li>
 In this step, we will clean the dataset by removing unnecessary columns, rows, missing values, outliers, combine two different datasets and more. This helps to take a new and clean dataset for the next step of analysis <br>
-#### STEP 4: Analyse and Virtualize the data
+<li><b>STEP 4: Analyse and Virtualize the data</b></li>
 In this step a deeper analysis is performed using concepts relaed to machine learning, text analysis and more. Virtulization data helps to give clear insights for the problem<br>
-#### STEP 5: Interpret the results
+<li><b>STEP 5: Interpret the results</b></li>
 Based on the analysed innformation it is important to interpret these data outcomes and provide a good insight to your employer
 
 

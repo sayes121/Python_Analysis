@@ -3,7 +3,7 @@
 ### Data Analysis Steps:
 Data is an important source for a business growth and it is very important to know how to sort these data; so that it helps to provide a good insight for solving certain problems.This analysis process of data helps to obtain something more from the given data and it is consist of five steps
 
-#### STEP 1: Define the problem questions
+<li><b>STEP 1: Define the problem questions</b></li>
 Based on the given problem always define a set of questions relating to the problems. Questions should be measurable, clear and concise. Design the questions to either qualify or disqualify potential solutions to your specific problem or opportunity. <br>
 #### STEP 2: Collect Data
 Based on the questions which were framed, determine what type of data is needed to be taken and analyzed<br>
